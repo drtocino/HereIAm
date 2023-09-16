@@ -1,0 +1,1 @@
+We are God's stewards, entrusted by Him with **time** and **opportunities**, **abilities** and **possessions**, and the blessings of the earth and its resources.

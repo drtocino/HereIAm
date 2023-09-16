@@ -8,29 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60a7ca8ff8ab8780",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Libro28CreenciasAdventistas.pdf"
-              }
-            }
-          },
-          {
-            "id": "7508e8a530684b77",
+            "id": "3a887a8b4d74a298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Meditation/2023-09-15.md",
+                "file": "💭 Beliefs/God.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d3061ff3f3f8f6f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "📚 Books/adventist-beliefs_0.pdf"
+              }
+            }
+          },
+          {
+            "id": "bd888a5002ae3897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💭 Beliefs/Stewardship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b5d3dd02fd1792",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "destinos.jpg"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "52a5fb0de614b45a",
@@ -112,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Meditation/2023-09-15.md",
+                "file": "destinos.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Meditation/2023-09-15.md",
+                "file": "destinos.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Meditation/2023-09-15.md"
+                "file": "destinos.jpg"
               }
             }
           }
@@ -174,20 +196,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7508e8a530684b77",
+  "active": "81b5d3dd02fd1792",
   "lastOpenFiles": [
-    "Daily Meditation/2023-09-15.md",
-    "Templates/Daily Meditation Template.md",
-    "Templates/Youth Devotion Template.md",
-    "Scripture (WEB)/19 - Psalm/Ps-131.md",
-    "Books/Libro28CreenciasAdventistas.pdf",
-    "Templates",
-    "Week Resume",
-    "2023-W37.md",
+    "Hunger and Parties.md",
+    "greater-sydney-conference-adventist-tithe-and-offering-breakdown-infographic-722x1024.png",
+    "destinos.jpg",
+    "Images/piramide_de_maslow_0.png",
+    "Images",
+    "💭 Beliefs/Stewardship.md",
+    "📚 Books/adventist-beliefs_0.pdf",
+    "💭 Beliefs/God.md",
     "The Bible (WEB).md",
-    "Daily Meditation",
+    "💭 Beliefs/The Holy Spirit.md",
+    "💭 Beliefs/The Son.md",
+    "💭 Beliefs/The Father.md",
+    "💭 Beliefs/The Trinity.md",
+    "💭 Beliefs/The Scripture.md",
+    "Meditation guides",
+    "Templates/Youth Devotion Template.md",
+    "Templates/Daily Meditation Template.md",
+    "📚 Books/Libro28CreenciasAdventistas.pdf",
+    "Daily Meditation/2023-09-15.md",
+    "Books/28_Beliefs_Tables.pdf",
+    "Books/adventist-beliefs_0.pdf",
+    "Books/Belief in the 28 Fundamental Beliefs of the Seventh-day Adventist.pdf",
+    "Books/28_Beliefs.pdf",
+    "💭 Beliefs",
+    "Scripture (WEB)/19 - Psalm/Ps-131.md",
+    "Templates",
+    "2023-W37.md",
     "Functions/CSS tweaks.md",
-    "Functions",
     "020 Interests MOC.md",
     "010 Faith MOC.md",
     "000 Home.md",
@@ -197,16 +235,6 @@
     "Examples of Connected Biblical Thinking.md",
     "Examples of deductive note-taking.md",
     "Examples of inductive note-taking.md",
-    "God-centered life.md",
-    "Split Thinking.md",
-    "Start connecting Scripture.md",
-    "Sleep.md",
-    "Set up your Obsidian for Bible Study.md",
-    "nickmilo.md",
-    "God's unified story.md",
-    "Biblical Themes and Images MOC.md",
-    "Book Note.md",
-    "Connecting makes you engage Scripture.md",
-    "Books"
+    "God-centered life.md"
   ]
 }
